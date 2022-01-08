@@ -25,7 +25,7 @@ const Home = (props: isHome)=>{
     <>
     <div className="container mx-auto">
       <div className="mx-5">
-        <h1 className='text-3xl text-center font-bold text-black py-5'>Quotes</h1>
+        <h1 className='text-3xl text-center font-bold text-black py-5'>Quotess</h1>
         <div className="text-center pb-3 hover:underline underline-offset-8">
           <Link href='/by-title/search'>Search by title</Link>
         </div>
